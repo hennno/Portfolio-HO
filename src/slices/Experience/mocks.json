@@ -1,105 +1,158 @@
 [
-	{
-		"__TYPE__": "SharedSliceContent",
-		"variation": "default",
-		"primary": {
-			"heading": {
-				"__TYPE__": "FieldContent",
-				"type": "Text",
-				"value": "Experience"
-			}
-		},
-		"items": [
-			{
-				"__TYPE__": "GroupItemContent",
-				"value": [
-					[
-						"title",
-						{
-							"__TYPE__": "FieldContent",
-							"type": "Text",
-							"value": "Senior Interactive Designer"
-						}
-					],
-					[
-						"time_period",
-						{
-							"__TYPE__": "FieldContent",
-							"type": "Text",
-							"value": "2019 - Present"
-						}
-					],
-					[
-						"institution",
-						{
-							"__TYPE__": "FieldContent",
-							"type": "Text",
-							"value": "Google"
-						}
-					],
-					[
-						"description",
-						{
-							"__TYPE__": "StructuredTextContent",
-							"value": [
-								{
-									"type": "paragraph",
-									"content": {
-										"text": "Led the design team in creating visually stunning and interactive web experiences. Implemented cutting-edge UI/UX designs, collaborated with developers to bring concepts to life, and ensured brand consistency across digital platforms.",
-										"spans": []
-									},
-									"direction": "ltr"
-								}
-							]
-						}
-					]
-				]
-			},
-			{
-				"__TYPE__": "GroupItemContent",
-				"value": [
-					[
-						"title",
-						{
-							"__TYPE__": "FieldContent",
-							"type": "Text",
-							"value": "Senior Interactive Designer"
-						}
-					],
-					[
-						"time_period",
-						{
-							"__TYPE__": "FieldContent",
-							"type": "Text",
-							"value": "2019 - Present"
-						}
-					],
-					[
-						"institution",
-						{
-							"__TYPE__": "FieldContent",
-							"type": "Text",
-							"value": "Google"
-						}
-					],
-					[
-						"description",
-						{
-							"__TYPE__": "StructuredTextContent",
-							"value": [
-								{
-									"type": "paragraph",
-									"content": {
-										"text": "Led the design team in creating visually stunning and interactive web experiences. Implemented cutting-edge UI/UX designs, collaborated with developers to bring concepts to life, and ensured brand consistency across digital platforms.",
-										"spans": []
-									},
-									"direction": "ltr"
-								}
-							]
-						}
-					]
-				]
-			}
-		]
-	}
+        {
+                "__TYPE__": "SharedSliceContent",
+                "variation": "default",
+                "primary": {
+                        "heading": {
+                                "__TYPE__": "FieldContent",
+                                "type": "Text",
+                                "value": "Leadership & Experience"
+                        }
+                },
+                "items": [
+                        {
+                                "__TYPE__": "GroupItemContent",
+                                "value": [
+                                        [
+                                                "title",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "Cadet Under Officer & Company Commander"
+                                                }
+                                        ],
+                                        [
+                                                "time_period",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "2023 - Present"
+                                                }
+                                        ],
+                                        [
+                                                "institution",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "City of Sydney Unit, Australian Army Cadets"
+                                                }
+                                        ],
+                                        [
+                                                "description",
+                                                {
+                                                        "__TYPE__": "StructuredTextContent",
+                                                        "value": [
+                                                                {
+                                                                        "type": "paragraph",
+                                                                        "content": {
+                                                                                "text": "Leads and mentors cadets as Company Commander, coordinating training, wellbeing, and ceremonial commitments while modelling the values of the Australian Army Cadets.",
+                                                                                "spans": []
+                                                                        },
+                                                                        "direction": "ltr"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                ]
+                        },
+                        {
+                                "__TYPE__": "GroupItemContent",
+                                "value": [
+                                        [
+                                                "title",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "Football NSW Referee"
+                                                }
+                                        ],
+                                        [
+                                                "time_period",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "2017 - Present"
+                                                }
+                                        ],
+                                        [
+                                                "institution",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "Football NSW"
+                                                }
+                                        ],
+                                        [
+                                                "description",
+                                                {
+                                                        "__TYPE__": "StructuredTextContent",
+                                                        "value": [
+                                                                {
+                                                                        "type": "paragraph",
+                                                                        "content": {
+                                                                                "text": "Officiates competitive fixtures across New South Wales, upholding the Laws of the Game with confidence and consistency while developing emerging referees through Refzone.org.",
+                                                                                "spans": []
+                                                                        },
+                                                                        "direction": "ltr"
+                                                                },
+                                                                {
+                                                                        "type": "paragraph",
+                                                                        "content": {
+                                                                                "text": "Selected for the Kanga Cup Referee Youth Academy, gaining high-performance coaching at the largest international youth tournament in the Southern Hemisphere.",
+                                                                                "spans": []
+                                                                        },
+                                                                        "direction": "ltr"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                ]
+                        },
+                        {
+                                "__TYPE__": "GroupItemContent",
+                                "value": [
+                                        [
+                                                "title",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "Duke of Edinburgh Award Achiever"
+                                                }
+                                        ],
+                                        [
+                                                "time_period",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "Bronze, Silver & Gold"
+                                                }
+                                        ],
+                                        [
+                                                "institution",
+                                                {
+                                                        "__TYPE__": "FieldContent",
+                                                        "type": "Text",
+                                                        "value": "The Duke of Edinburgh's International Award"
+                                                }
+                                        ],
+                                        [
+                                                "description",
+                                                {
+                                                        "__TYPE__": "StructuredTextContent",
+                                                        "value": [
+                                                                {
+                                                                        "type": "paragraph",
+                                                                        "content": {
+                                                                                "text": "Completed all three levels of the Award, balancing service, adventurous journeys, skill development, and physical recreation alongside academic and leadership commitments.",
+                                                                                "spans": []
+                                                                        },
+                                                                        "direction": "ltr"
+                                                                }
+                                                        ]
+                                                }
+                                        ]
+                                ]
+                        }
+                ]
+        }
 ]
