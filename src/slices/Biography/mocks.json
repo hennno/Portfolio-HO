@@ -1,58 +1,68 @@
 [
-	{
-		"__TYPE__": "SharedSliceContent",
-		"variation": "default",
-		"primary": {
-			"heading": {
-				"__TYPE__": "FieldContent",
-				"value": "whom",
-				"type": "Text"
-			},
-			"body": {
-				"__TYPE__": "StructuredTextContent",
-				"value": [
-					{
-						"type": "paragraph",
-						"content": {
-							"text": "Occaecat velit dolor Lorem aliquip proident velit commodo. Tempor non et magna anim eiusmod nostrud proident laboris reprehenderit magna commodo ullamco. Laboris esse excepteur officia."
-						}
-					}
-				]
-			},
-			"avatar": {
-				"__TYPE__": "ImageContent",
-				"origin": {
-					"id": "main",
-					"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
-					"width": 3500,
-					"height": 2338
-				},
-				"url": "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea",
-				"width": 3500,
-				"height": 2338,
-				"edit": {
-					"zoom": 1,
-					"crop": {
-						"x": 0,
-						"y": 0
-					},
-					"background": "transparent"
-				},
-				"thumbnails": {}
-			},
-			"button_text": {
-				"__TYPE__": "FieldContent",
-				"value": "passage",
-				"type": "Text"
-			},
-			"button_link": {
-				"__TYPE__": "LinkContent",
-				"value": {
-					"__TYPE__": "ExternalLink",
-					"url": "https://slicemachine.dev"
-				}
-			}
-		},
-		"items": []
-	}
+        {
+                "__TYPE__": "SharedSliceContent",
+                "variation": "default",
+                "primary": {
+                        "heading": {
+                                "__TYPE__": "FieldContent",
+                                "value": "About Henry",
+                                "type": "Text"
+                        },
+                        "body": {
+                                "__TYPE__": "StructuredTextContent",
+                                "value": [
+                                        {
+                                                "type": "paragraph",
+                                                "content": {
+                                                        "text": "Henry Owen is a dedicated soccer referee for Football NSW and the creator of Refzone.org, a resource that helps referees stay at the top of their game. He brings the same focus and professionalism to every match he officiates, from local fixtures to major youth tournaments.",
+                                                        "spans": []
+                                                },
+                                                "direction": "ltr"
+                                        },
+                                        {
+                                                "type": "paragraph",
+                                                "content": {
+                                                        "text": "Beyond the pitch, Henry serves as a Cadet Under Officer and Company Commander with the City of Sydney Unit in the Australian Army Cadets. Having completed the Duke of Edinburgh's Bronze, Silver, and Gold awards, he is committed to leadership, service, and ongoing personal development.",
+                                                        "spans": []
+                                                },
+                                                "direction": "ltr"
+                                        }
+                                ]
+                        },
+                        "avatar": {
+                                "__TYPE__": "ImageContent",
+                                "origin": {
+                                        "id": "main",
+                                        "url": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?auto=format&fit=crop&w=3500&q=80",
+                                        "width": 3500,
+                                        "height": 2334
+                                },
+                                "url": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?auto=format&fit=crop&w=3500&q=80",
+                                "width": 3500,
+                                "height": 2334,
+                                "edit": {
+                                        "zoom": 1,
+                                        "crop": {
+                                                "x": 0,
+                                                "y": 0
+                                        },
+                                        "background": "transparent"
+                                },
+                                "thumbnails": {}
+                        },
+                        "button_text": {
+                                "__TYPE__": "FieldContent",
+                                "value": "Email Henry",
+                                "type": "Text"
+                        },
+                        "button_link": {
+                                "__TYPE__": "LinkContent",
+                                "value": {
+                                        "__TYPE__": "ExternalLink",
+                                        "url": "mailto:henrytowen@gmail.com"
+                                }
+                        }
+                },
+                "items": []
+        }
 ]
